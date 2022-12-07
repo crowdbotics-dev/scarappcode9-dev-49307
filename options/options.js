@@ -1,3 +1,4 @@
+import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   "hr": {
     "marginTop": 20,
@@ -38,7 +39,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App Menu7",
+    "title": "App Menu76",
     "copy": "Routes available!",
     "styles": styles
   }
